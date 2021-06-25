@@ -1,0 +1,25 @@
+body {
+  margin:0px;
+  background-image: url(img/background.png);
+}
+
+ul {
+  top: 0%;
+  left: 0%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  margin: 5px;
+  color: white;
+}
+
+.topbaritem {
+  display: inline;
+  list-style-type: none;
+}
