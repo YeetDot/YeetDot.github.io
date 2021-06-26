@@ -1,6 +1,4 @@
 body {
-  font-family: 'endor';
-  src: url('fonts/ENDOR___.ttf') format('truetype');
   margin:0px;
   background-image: url(img/background.png);
 }
@@ -19,6 +17,8 @@ li {
   float: left;
   margin: 5px;
   color: white;
+  font-family: 'Endor';
+  src: url('fonts/endor.ttf') format('truetype');
 }
 
 .topbaritem {
