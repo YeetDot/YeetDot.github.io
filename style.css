@@ -17,8 +17,6 @@ li {
   float: left;
   margin: 5px;
   color: white;
-  font-family: 'Endor';
-  src: url('fonts/endor.ttf') format('truetype');
 }
 
 .topbaritem {
