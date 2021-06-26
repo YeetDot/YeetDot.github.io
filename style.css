@@ -36,3 +36,13 @@ li {
   display: inline;
   list-style-type: none;
 }
+
+#rsep {
+  width: 15px;
+  height: 100%;
+  background-image: url(img/seperator.png);
+  left: 33%;
+  top: 0;
+  z-index: -1;
+  position: absolute;
+}
