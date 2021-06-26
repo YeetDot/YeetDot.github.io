@@ -3,6 +3,11 @@ body {
   background-image: url(img/background.png);
 }
 
+@font-face {
+  font-family: 'Endor';
+  src: url('/fonts/endor.ttf') format('truetype');
+}
+
 ul {
   top: 0%;
   left: 0%;
@@ -17,6 +22,7 @@ li {
   float: left;
   margin: 5px;
   color: white;
+  font-family: 'Endor';
 }
 
 .topbaritem {
