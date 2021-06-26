@@ -1,4 +1,6 @@
 body {
+  font-family: 'endor';
+  src: url('fonts/ENDOR___.ttf') format('truetype');
   margin:0px;
   background-image: url(img/background.png);
 }
