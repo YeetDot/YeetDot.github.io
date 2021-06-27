@@ -30,9 +30,6 @@ li {
   float: left;
   margin: 5px;
   color: white;
-}
-
-.topbaritem {
   display: inline;
   list-style-type: none;
 }
